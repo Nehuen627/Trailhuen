@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "instagram",
+      "icon": "fa-brands fa-instagram",
+      "link": "https://www.instagram.com/nehuentrailrunning/"
+    },
+    {
+      "name":"strava",
+      "icon": "fa-brands fa-strava",
+      "link": "https://www.strava.com/athletes/76189753"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://github.com/Nehuen627"
+    }
+  ]
+}
