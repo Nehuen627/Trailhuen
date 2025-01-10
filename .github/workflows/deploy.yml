@@ -51,16 +51,11 @@ jobs:
         run:  npm run build  
 
       
-      # Deploy to gh-pages branch
+      # Deploy to `gh-pages` branch
       - name: Deploy to gh-pages
         run: |
-          # Clone the gh-pages branch into a separate folder
-          git clone --branch gh-pages --single-branch https://github.com/${{ github.repository }} gh-pages
-          rm -rf gh-pages/*
-          cp -r public/* gh-pages/
-          cd gh-pages
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config --global user.name "Nehuen627"
+          git config --global user.email "teonehuen409@gmail.com"
           git add .
           git commit -m "Deploy site"
-          git push
+          git push -f origin HEAD:gh-pages
