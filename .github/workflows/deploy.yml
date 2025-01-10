@@ -1,30 +1,27 @@
-# Workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
-  # Trigger on pushes to the default branch
   push:
     branches: ["main"]
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
 env:
   HUGO_ENV: production
   HUGO_VERSION: "0.140.2"
-  GO_VERSION: "1.23.4"
   NODE_VERSION: "20.18.0"
-  TINA_CLIENT_ID: ${{ vars.TINA_CLIENT_ID }}
-  TINA_TOKEN: ${{ vars.TINA_TOKEN }}
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      # Check out the repository
+      # Check out the repository and include submodules
       - uses: actions/checkout@v4
+        with:
+          submodules: true
 
       # Set up Node.js
       - name: Set up Node.js
@@ -41,19 +38,19 @@ jobs:
           rm hugo_extended_${{ env.HUGO_VERSION }}_Linux-64bit.tar.gz
           hugo version
 
-      # Install npm dependencies
-      - name: Install npm dependencies
-        run: npm install
-
       # Build the site
       - name: Build Hugo site
         run: hugo
 
-      # Deploy to `gh-pages` branch
+      # Deploy to GitHub Pages
       - name: Deploy to gh-pages
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          git init
+          git remote add origin https://github.com/${{ github.repository }}.git
+          git checkout -b gh-pages
           git add .
           git commit -m "Deploy site"
-          git push -f origin HEAD:gh-pages
+          git push -f origin gh-pages
+
