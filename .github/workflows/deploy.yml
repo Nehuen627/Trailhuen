@@ -55,7 +55,7 @@ jobs:
       - name: Deploy to gh-pages
         run: |
           # Clone the gh-pages branch into a separate folder
-          git clone --branch gh-pages --single-branch https://github.com/Nehuen627/Trailhuen gh-pages
+          git clone --branch gh-pages --single-branch https://github.com/${{ github.repository }} gh-pages
           rm -rf gh-pages/*
           cp -r public/* gh-pages/
           cd gh-pages
@@ -64,3 +64,5 @@ jobs:
           git add .
           git commit -m "Deploy site"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
