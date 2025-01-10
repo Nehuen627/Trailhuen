@@ -50,8 +50,21 @@ jobs:
       - name: Publish to GitHub Pages
         run:  npm run build  
 
-      
+    
       # Deploy to gh-pages branch
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          path: ./public
+
+      - deploy:
+            environment:
+              name: gh-pages
+              url: ${{ steps.deployment.outputs.page_url }}
+            runs-on: ubuntu-latest
+            needs: build
+            steps:
+              - name: Deploy to GitHub Pages
+                id: deployment
+                uses: actions/deploy-pages@v4
