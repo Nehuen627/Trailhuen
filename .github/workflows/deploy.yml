@@ -59,8 +59,8 @@ jobs:
           rm -rf gh-pages/*
           cp -r public/* gh-pages/
           cd gh-pages
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.name "Nehuen627"
+          git config user.email "teonehuen409@gmail.com"
           git add .
           git commit -m "Deploy site"
           git push
