@@ -36,3 +36,4 @@ Es gracias al entrenador y su planificación que logré luego de casi 1500 kiló
 _Foto de la K42_
 
 Luego de haber logrado ese sueño, sigo planeándome nuevos desafíos y metas, pero sentí por primera vez en bastante tiempo otra llamita en mi interior, una que me llevó a crear _Trailhuen_, este blog. Con el objetivo de compartir mis experiencias, mis desafíos, mis logros, mis consejos, y aprendizajes, como forma de guardar todo para poder volver a experimentarlas en un futuro, y por si a otra persona del mundo le fuera a servir cualquiera de sus contenidos. 
+
