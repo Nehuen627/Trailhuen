@@ -54,15 +54,10 @@ jobs:
       # Deploy to gh-pages branch
       - name: Deploy to gh-pages
         run: |
-          # Clone the gh-pages branch into a separate folder
-          git clone --branch gh-pages --single-branch https://github.com/${{ github.repository }} gh-pages
-          rm -rf gh-pages/*
-          cp -r public/* gh-pages/
-          cd gh-pages
-          git config user.name "Nehuen627"
-          git config user.email "teonehuen409@gmail.com"
+          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
+          cd ${GITHUB_WORKSPACE}/built-site
           git add .
-          git commit -m "Deploy site"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config user.name 'Nehuen627'
+          git config user.email 'teonehuen409@gmail.com'
+          git commit -m 'Updated site'
+          git push          
