@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Explora El Blog"
-    link: "/blog"
+    link: "/Trailhuen/blog"
 
 
 # Features
@@ -23,7 +23,7 @@ features:
     button:
       enable: true
       label: "Conocé El Trail"
-      link: "/trail-running"
+      link: "/Trailhuen/trail-running"
       
   - title: "¿Cómo empezó todo?"
     image: "/images/GreenTrail.jpg" # Imagen sugerida: un sendero escénico.
@@ -31,7 +31,7 @@ features:
     button:
       enable: true
       label: "Saber más"
-      link: "/about"
+      link: "/Trailhuen/about"
 
   
   - title: "Próximos objetivos..."
