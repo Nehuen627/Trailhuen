@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Trailhuen: Compartiendo experiencias desde los senderos"
-  content: "Descubre la belleza del trail running y la serenidad de la naturaleza a través de experiencias compartidas, aventuras y relatos personales."
+  title: "Trailhuen - Compartiendo experiencias desde los senderos"
+  content: "Descubre la belleza del trail running y la serenidad de la naturaleza a través de experiencias, aventuras y relatos personales."
   image: "/images/banner1.svg" # Imagen sugerida: un corredor en un sendero montañoso.
   button:
     enable: true
@@ -14,12 +14,12 @@ banner:
 features:
   - title: "¿Por qué el Trail Running?"
     image: "/images/TrailRunning.jpg" # Imagen sugerida: un corredor en acción.
-    content: "El trail running es más que un deporte; es un estilo de vida. Enfrenta el desafío, conéctate con la naturaleza y disfruta de la exploración."
+    content: "El trail running es más que un deporte; es un estilo de vida. Conéctate con la naturaleza y disfruta de la aventura."
     bulletpoints:
-      - "Mejora tu salud en todos los aspectos"
-      - "Logra despejarte y escapar"
-      - "Construye resiliencia y resistencia"
-      - "Te acerca a la naturaleza"
+      - "Mejora tu salud física y mental"
+      - "Encuentra un escape del estrés cotidiano"
+      - "Desarrolla resiliencia y supera tus límites"
+      - "Conecta profundamente con la naturaleza y su belleza"
     button:
       enable: true
       label: "Conocé El Trail"
