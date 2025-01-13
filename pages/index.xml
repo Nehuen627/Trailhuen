@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Trailhuen</title><link>http://trailhuen.com.ar/pages/</link><description>Recent content in Pages on Trailhuen</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://trailhuen.com.ar/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacidad</title><link>http://trailhuen.com.ar/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://trailhuen.com.ar/privacy-policy/</guid><description>&lt;h2 id="1-introducción">1. Introducción&lt;/h2>
-&lt;p>En Trailhuen, nos comprometemos a proteger la privacidad de nuestros usuarios. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos la información que compartes con nosotros. Al usar este sitio web, aceptas los términos descritos a continuación.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Trailhuen</title>
+    <link>http://trailhuen.com.ar/pages/</link>
+    <description>Recent content in Pages on Trailhuen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://trailhuen.com.ar/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacidad</title>
+      <link>http://trailhuen.com.ar/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://trailhuen.com.ar/privacy-policy/</guid>
+      <description>&lt;h2 id=&#34;1-introducción&#34;&gt;1. Introducción&lt;/h2&gt;&#xA;&lt;p&gt;En Trailhuen, nos comprometemos a proteger la privacidad de nuestros usuarios. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos la información que compartes con nosotros. Al usar este sitio web, aceptas los términos descritos a continuación.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
