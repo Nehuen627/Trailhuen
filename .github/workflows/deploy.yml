@@ -47,10 +47,14 @@ jobs:
       - name: Install npm dependencies
         run: npm install
 
-      - name: Publish to GitHub Pages
-        run:  npm run build  
+      # Build the Hugo site
+      - name: Build Hugo site
+        run: hugo
 
-    
+      # Add the CNAME file to the public folder
+      - name: Add CNAME file
+        run: echo "trailhuen.com.ar" > public/CNAME
+
       # Deploy to gh-pages branch
       - name: Deploy to gh-pages
         run: |
