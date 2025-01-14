@@ -48,6 +48,7 @@ module.exports = {
         text: theme.colors.default.text_color.default,
         light: theme.colors.default.text_color.light,
         dark: theme.colors.default.text_color.dark,
+        strong: theme.colors.default.text_color.strong,
         primary: theme.colors.default.theme_color.primary,
         secondary: theme.colors.default.theme_color.secondary,
         body: theme.colors.default.theme_color.body,
@@ -58,6 +59,7 @@ module.exports = {
           text: theme.colors.darkmode.text_color.default,
           light: theme.colors.darkmode.text_color.light,
           dark: theme.colors.darkmode.text_color.dark,
+          strong: theme.colors.darkmode.text_color.strong,
           primary: theme.colors.darkmode.theme_color.primary,
           secondary: theme.colors.darkmode.theme_color.secondary,
           body: theme.colors.darkmode.theme_color.body,
@@ -99,5 +101,6 @@ module.exports = {
         5: "3rem",
       },
     }),
+    
   ],
 };

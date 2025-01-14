@@ -9,9 +9,10 @@
         "theme_dark": "#374b4a"
       },
       "text_color": {
-        "default": "#374b4a",
+        "default": "#1a2423",
         "dark": "#160c28",
-        "light": "#526760"
+        "light": "#526760",
+        "strong": "#090314"
       },
       "button_color": {
         "background": "#6bb88a",
@@ -31,7 +32,8 @@
       "text_color": {
         "default": "#fbe4ae",
         "dark": "#deb964",
-        "light": "#fbe4ae"
+        "light": "#fbe4ae",
+        "strong": "#f5c400"
       },
       "button_color": {
         "background": "#374b4a",

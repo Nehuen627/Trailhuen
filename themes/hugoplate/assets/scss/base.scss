@@ -57,3 +57,12 @@ code {
 blockquote > p {
   @apply my-0 #{!important};
 }
+
+@layer base {
+  strong {
+    @apply text-strong font-bold;
+  }
+  .dark strong {
+    @apply text-darkmode-strong font-bold;
+  }
+}

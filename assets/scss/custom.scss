@@ -1,7 +1,23 @@
 // Add your own custom styles here
-strong{
-    color: #ab7113   !important;
+
+em {
+    @apply text-strong dark:text-darkmode-strong;
 }
-em{
-    color: #bd790a   !important;
-}
+
+/* @layer base {
+    strong {
+      @apply text-strong dark:text-darkmode-strong;
+    }
+  }
+   */
+
+   @layer base {
+    .content:is(.dark *) :is(:where(strong):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+      @apply text-strong;
+    }
+  
+    .dark .content:is(.dark *) :is(:where(strong):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+      @apply text-darkmode-strong;
+    }
+  }
+  
