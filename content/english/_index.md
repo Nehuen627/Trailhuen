@@ -40,8 +40,16 @@ features:
     bulletpoints:
       - "Travesía de los cerros - 42km"
       
-    
-
+  - title: "¿Te gustaría apoyar este proyecto?"  
+    image: "/images/favicon.png"  
+    content: "Trailhuen nació como un espacio de pasión y comunidad, no como un negocio. Por eso, he decidido mantenerlo libre de anuncios intrusivos que puedan afectar tu experiencia. Si valoras mi contenido y quieres ayudarme a mantener el proyecto en marcha, tu aporte será recibido con gratitud."  
+    bulletpoints:  
+      - "Tu apoyo es completamente opcional."  
+      - "Contribuyes directamente a la continuidad y mejora de Trailhuen."  
+    button:  
+      enable: true  
+      label: "Apóyanos"  
+      link: "/donate"  
 
 
 ---
