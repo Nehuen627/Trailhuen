@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Trailhuen</title>
-    <link>http://trailhuen.com.ar/tags/</link>
+    <link>https://trailhuen.com.ar/tags/</link>
     <description>Recent content in Tags on Trailhuen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jan 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://trailhuen.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trailhuen.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aventura</title>
-      <link>http://trailhuen.com.ar/tags/aventura/</link>
+      <link>https://trailhuen.com.ar/tags/aventura/</link>
       <pubDate>Mon, 20 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/aventura/</guid>
+      <guid>https://trailhuen.com.ar/tags/aventura/</guid>
       <description></description>
     </item>
     <item>
       <title>Equipamiento</title>
-      <link>http://trailhuen.com.ar/tags/equipamiento/</link>
+      <link>https://trailhuen.com.ar/tags/equipamiento/</link>
       <pubDate>Mon, 20 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/equipamiento/</guid>
+      <guid>https://trailhuen.com.ar/tags/equipamiento/</guid>
       <description></description>
     </item>
     <item>
       <title>Outdoor</title>
-      <link>http://trailhuen.com.ar/tags/outdoor/</link>
+      <link>https://trailhuen.com.ar/tags/outdoor/</link>
       <pubDate>Mon, 20 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/outdoor/</guid>
+      <guid>https://trailhuen.com.ar/tags/outdoor/</guid>
       <description></description>
     </item>
     <item>
       <title>Trail Running</title>
-      <link>http://trailhuen.com.ar/tags/trail-running/</link>
+      <link>https://trailhuen.com.ar/tags/trail-running/</link>
       <pubDate>Mon, 20 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/trail-running/</guid>
+      <guid>https://trailhuen.com.ar/tags/trail-running/</guid>
       <description></description>
     </item>
     <item>
       <title>Definiciones</title>
-      <link>http://trailhuen.com.ar/tags/definiciones/</link>
+      <link>https://trailhuen.com.ar/tags/definiciones/</link>
       <pubDate>Mon, 13 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/definiciones/</guid>
+      <guid>https://trailhuen.com.ar/tags/definiciones/</guid>
       <description></description>
     </item>
     <item>
       <title>Naturaleza</title>
-      <link>http://trailhuen.com.ar/tags/naturaleza/</link>
+      <link>https://trailhuen.com.ar/tags/naturaleza/</link>
       <pubDate>Mon, 13 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/naturaleza/</guid>
+      <guid>https://trailhuen.com.ar/tags/naturaleza/</guid>
       <description></description>
     </item>
     <item>
       <title>Primeros Pasos</title>
-      <link>http://trailhuen.com.ar/tags/primeros-pasos/</link>
+      <link>https://trailhuen.com.ar/tags/primeros-pasos/</link>
       <pubDate>Mon, 13 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/primeros-pasos/</guid>
+      <guid>https://trailhuen.com.ar/tags/primeros-pasos/</guid>
       <description></description>
     </item>
     <item>
       <title>Inicio</title>
-      <link>http://trailhuen.com.ar/tags/inicio/</link>
+      <link>https://trailhuen.com.ar/tags/inicio/</link>
       <pubDate>Thu, 09 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/inicio/</guid>
+      <guid>https://trailhuen.com.ar/tags/inicio/</guid>
       <description></description>
     </item>
     <item>
       <title>Sueño</title>
-      <link>http://trailhuen.com.ar/tags/sue%C3%B1o/</link>
+      <link>https://trailhuen.com.ar/tags/sue%C3%B1o/</link>
       <pubDate>Thu, 09 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://trailhuen.com.ar/tags/sue%C3%B1o/</guid>
+      <guid>https://trailhuen.com.ar/tags/sue%C3%B1o/</guid>
       <description></description>
     </item>
   </channel>

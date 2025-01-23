@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trail Running on Trailhuen</title>
-    <link>http://trailhuen.com.ar/trail-running/</link>
+    <link>https://trailhuen.com.ar/trail-running/</link>
     <description>Recent content in Trail Running on Trailhuen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://trailhuen.com.ar/trail-running/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trailhuen.com.ar/trail-running/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
