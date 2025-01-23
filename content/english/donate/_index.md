@@ -22,11 +22,13 @@ Trailhuen es un espacio creado con dedicación para compartir experiencias, info
 
 #### ¿Cómo puedes apoyar?  
 
-##### **Invitame un gelsito**  
-Tu aporte, por pequeño que sea, es un gran impulso para que este proyecto siga creciendo.  
-- Puedes invitarme un _gelsito_ por única vez o hacer un aporte mensual si deseas contribuir regularmente.  
+##### Transfiere 
+Tu aporte, por pequeño que sea, es un gran impulso para que este proyecto siga creciendo.       
+Puedes hacer una donación por única vez o hacer un aporte mensual si deseas contribuir regularmente.  
 
-[![Invitame un gelsito en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/trailhuen)  
+#### **Datos:**
+-  **Alias:** nehuen-trail 
+-  **Nombre:** Nehuen Joaquin Franco
 
 ---
 
