@@ -11,7 +11,7 @@ draft: false
 
 # ¿Qué es el Trail Running?
 
-Con el paso del tiempo, el **Trail Running** crece en _popularidad_ y su comunidad se expande más con aficionados por el running y la naturaleza. Sin embargo, **¿Qué es el Trail Running?** ¿Cúal es esa diferencia que lo separa de su contraparte clásica?
+Con el paso del tiempo, el _Trail Running_ crece en _popularidad_ y su comunidad se expande más con aficionados por el running y la naturaleza. Sin embargo, _¿Qué es el Trail Running?_ ¿Cúal es esa diferencia que lo separa de su contraparte clásica?
 
 {{< image src="images/posts/post2/P2toncek.jpeg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 _Laguna Toncek_

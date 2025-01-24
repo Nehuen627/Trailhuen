@@ -10,7 +10,7 @@ draft: false
 ---  
 
 # Los 10 elementos esenciales para Trail Running  
-El Trail Running es una aventura fuera de la distancia a recorrer. Sin embargo, tener el equipamiento adecuado podría diferenciar una experiencia placentera e **inolvidable** de una total _desgracia_. Es por esto que voy a compartirte mis **10 elementos esenciales**, para que no tengas que experimentar ese mal rato en persona.  
+El Trail Running es una aventura fuera de la distancia a recorrer. Sin embargo, tener el equipamiento adecuado podría diferenciar una experiencia placentera e _inolvidable_ de una total _desgracia_. Es por esto que voy a compartirte mis _10 elementos esenciales_, para que no tengas que experimentar ese mal rato en persona.  
 
 
 ## Chaleco  
