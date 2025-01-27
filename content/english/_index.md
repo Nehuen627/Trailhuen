@@ -13,7 +13,7 @@ banner:
 # Features
 features:
   - title: "¿Por qué el Trail Running?"
-    image: "/images/TrailRunning.jpg" # Imagen sugerida: un corredor en acción.
+    image: "/images/H5.jpg" # Imagen sugerida: un corredor en acción.
     content: "El trail running es más que un deporte; es un estilo de vida. Conéctate con la naturaleza y disfruta de la aventura."
     bulletpoints:
       - "Mejora tu salud física y mental"
@@ -35,7 +35,7 @@ features:
 
   
   - title: "Próximos objetivos..."
-    image: "/images/K42.jpg" # Imagen sugerida: corredor en carreras
+    image: "/images/H3.jpg" # Imagen sugerida: corredor en carreras
     content: "Una vez cada tanto, participar en carreras te lográ conectar con la inmensa comunidad del trail, y te ayuda a ver el progreso logrado. Estos abarcan mis próximos deseos:"
     bulletpoints:
       - "Travesía de los cerros - 42km"
