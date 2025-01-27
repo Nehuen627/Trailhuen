@@ -40,4 +40,7 @@ Entonces, una vez explorado las definiciones del Trail Running, podemos entender
 {{< image src="images/posts/post2/P2villa.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 _Foto de lugar conocido gracias al Trail Running_
 
+---
+
 ¿Te interesa comenzar en el Trail Running? Mantente atento a nuestro blog, donde exploraremos más temas sobre este apasionante deporte. ¡Nos vemos en el próximo artículo!
+_Si quieres apoyar este proyecto, puedes hacer una contribución mediante: [Link de donación](https://link.mercadopago.com.ar/trailhuen "Link de donación")_

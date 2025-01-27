@@ -25,7 +25,7 @@ Aunque empecé corriendo en llano, y duraba menos de 5 kilómetros sin quedarme 
 {{< image src="images/posts/brutpic.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 _Foto en la salida de la BRUT 22km_
 
-Luego de esa experiencia, no iba a dejar de lado mi sueño, ahora era momento de luchar por el desafío mayor. Es por eso que en el siguiente año, me anoté en los 42 kilómetros de la **K42**, y en Febrero del 2025, me uní al team **_Bandurrias Trail Running_**, para lograr tener presente a un entrenador para que me guie y no estar andando a ciegas. Recuerdo ese primer día como si fuera ayer, al presentarme en el lugar de comienzo, me vi ante un grupo enorme, el cual me intimido pero a su vez me recibió con los brazos abiertos. Aunque pueda no gustarte la compañía, estar en un grupo de estos, te ayuda 1000 veces a presentarte cada día y a luchar en cada esfuerzo.
+Luego de esa experiencia, no iba a dejar de lado mi sueño, ahora era momento de luchar por el desafío mayor. Es por eso que en el siguiente año, me anoté en los 42 kilómetros de la **K42**, y en Febrero del 2024, me uní al team **_Bandurrias Trail Running_**, para lograr tener presente a un entrenador para que me guie y no estar andando a ciegas. Recuerdo ese primer día como si fuera ayer, al presentarme en el lugar de comienzo, me vi ante un grupo enorme, el cual me intimido pero a su vez me recibió con los brazos abiertos. Aunque pueda no gustarte la compañía, estar en un grupo de estos, te ayuda 1000 veces a presentarte cada día y a luchar en cada esfuerzo.
 
 {{< image src="images/posts/banduspic.png" caption="" alt="alter-text" height="300px" width="300px" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 _Logo del team Bandurrias_
@@ -37,3 +37,7 @@ _Foto de la K42_
 
 Luego de haber logrado ese sueño, sigo planeándome nuevos desafíos y metas, pero sentí por primera vez en bastante tiempo otra llamita en mi interior, una que me llevó a crear _Trailhuen_, este blog. Con el objetivo de compartir mis experiencias, mis desafíos, mis logros, mis consejos, y aprendizajes, como forma de guardar todo para poder volver a experimentarlas en un futuro, y por si a otra persona del mundo le fuera a servir cualquiera de sus contenidos. 
 
+---
+
+¿Te interesa comenzar en el Trail Running? Mantente atento a nuestro blog, donde exploraremos más temas sobre este apasionante deporte. ¡Nos vemos en el próximo artículo!
+_Si quieres apoyar este proyecto, puedes hacer una contribución mediante: [Link de donación](https://link.mercadopago.com.ar/trailhuen "Link de donación")_

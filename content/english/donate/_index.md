@@ -25,6 +25,10 @@ Trailhuen es un espacio creado con dedicación para compartir experiencias, info
 ##### Transfiere 
 Tu aporte, por pequeño que sea, es un gran impulso para que este proyecto siga creciendo.       
 Puedes hacer una donación por única vez o hacer un aporte mensual si deseas contribuir regularmente.  
+Puedes hacerlo manualmente o mediante el link de pago:
+
+#### **Link de pago:**
+[Link de donación](https://link.mercadopago.com.ar/trailhuen "Link de donación")
 
 #### **Datos:**
 -  **Alias:** nehuen-trail 

@@ -187,3 +187,9 @@ Uno nunca sabe cuándo puede tener ganas de ir al baño. Por lo que **tener un p
 ---
 **Algunos de los datos fueron extraídos de las siguientes páginas:**  
 - [Mettlerunning - Trail Running First Aid Kit](https://www.mettlerunning.com/blog/trail-running-first-aid-kit/)  
+
+
+---
+
+¿Te interesa comenzar en el Trail Running? Mantente atento a nuestro blog, donde exploraremos más temas sobre este apasionante deporte. ¡Nos vemos en el próximo artículo!
+_Si quieres apoyar este proyecto, puedes hacer una contribución mediante: [Link de donación](https://link.mercadopago.com.ar/trailhuen "Link de donación")_
