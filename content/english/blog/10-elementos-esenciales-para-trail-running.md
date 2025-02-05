@@ -9,12 +9,11 @@ tags: ["equipamiento", "trail running", "aventura", "outdoor"]
 draft: false  
 ---  
 
-# Los 10 elementos esenciales para Trail Running  
 El Trail Running es una aventura fuera de la distancia a recorrer. Sin embargo, tener el equipamiento adecuado podría diferenciar una experiencia placentera e _inolvidable_ de una total _desgracia_. Es por esto que voy a compartirte mis _10 elementos esenciales_, para que no tengas que experimentar ese mal rato en persona.  
 
 
 ## Chaleco  
-{{< image src="images/posts/post3/weissvest.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/weissvest.jpg" caption="" alt="Chaleco Running" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Chaleco Running" webp="false" >}}  
 _- Chaleco Simer II 10 L Weiss -_  
 
 El primer ítem **obligatorio** es un buen chaleco. Aunque en actividades de pasadas o intervalos en un mismo lugar, capaz quieras preferir ir con menos peso, llevar siempre el chaleco puesto ayuda a acostumbrarte para las actividades fuera de pista, ya que **siempre lo vamos a utilizar**, hasta en las carreras.  
@@ -27,7 +26,7 @@ El primer ítem **obligatorio** es un buen chaleco. Aunque en actividades de pas
 
 
 ## Zapatillas  
-{{< image src="images/posts/post3/thudnercross.jpeg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/thudnercross.jpeg" caption="" alt="Zapatillas Running" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Zapatillas Running" webp="false" >}}  
 _- Zapatillas Salomon Thundercross -_  
 
 El segundo ítem es **obligatorio**, sin unas buenas zapatillas cada paso va a causar dolor. Es importante saber elegir la zapatilla adecuada para cada actividad, por lo que una suela lisa para un terreno montañoso va a causar mayores probabilidades de caídas.  
@@ -40,7 +39,7 @@ El segundo ítem es **obligatorio**, sin unas buenas zapatillas cada paso va a c
 
 
 ## Camel bag y soft flasks  
-{{< image src="images/posts/post3/camel.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/camel.png" caption="" alt="Soft Flasks" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Soft Flasks" webp="false" >}}  
 _- Soft flasks y camel bag -_  
 
 Al estar corriendo, el cuerpo ocupa bastante agua, por lo que **no estar hidratándose puede ser muy riesgoso**. Es crucial **nunca llegar a tener sed**, por lo que siempre hay que estar tomando antes de esas sensaciones. Es ahí donde entran los camel bag y las soft flasks, con las que podremos llevar agua y despreocuparnos por ciertas horas de quedarnos sin.  
@@ -53,7 +52,7 @@ Al estar corriendo, el cuerpo ocupa bastante agua, por lo que **no estar hidrat�
 {{< notice "info" >}} **¡Se recomienda entre 400 y 800 ml por hora!** {{< /notice >}}
 
 ## Botiquín y Lubricante  
-{{< image src="images/posts/post3/firstaidkit.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/firstaidkit.png" caption="" alt="Botiquin" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Botiquin" webp="false" >}}  
 _- Botiquín y vaselina sólida -_  
 
 Ya fuera el lugar, si estuviera cerca de la civilización o lejos, **nunca sabemos qué nos puede pasar**. Por lo que siempre tener un botiquín nos puede ayudar a pasar esos accidentes un poco más relajados. Por otro lado, al recorrer mayores distancias, nuestros pies u otras partes del cuerpo van a rozar mucho, por lo que utilizar un lubricante como vaselina, previa a la actividad y durante la misma, es **crucial para evitar ampollas o rozaduras** que perjudiquen la movilización.  
@@ -76,7 +75,7 @@ Además, se recomienda guardar un gel extra, así como guardar todo en una **bol
 
 
 ## Geles y Carbohidratos  
-{{< image src="images/posts/post3/gel.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/gel.png" caption="" alt="Carbohidratos" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Carbohidratos" webp="false" >}}  
 _- Geles Mervick y dulce de membrillo -_  
 
 Para sesiones cortas, no es tan necesario tener un plus de energía. Sin embargo, para **sesiones de más de 50 minutos**, es clave ingerir carbohidratos. Esto se puede lograr con comidas ricas en los mismos, o con geles. Estos últimos son bastante populares y, además de aportar carbohidratos, también vienen con extras como la maltodextrina o la cafeína.  
@@ -93,7 +92,7 @@ Para sesiones cortas, no es tan necesario tener un plus de energía. Sin embargo
 
 
 ## Isotónica o pastillas de sal  
-{{< image src="images/posts/post3/sodio.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/sodio.png" caption="" alt="Sodio" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Sodio" webp="false" >}}  
 _- Pastillas de sal e isotónicas -_  
 
 Otra parte clave a la par del agua, es el **sodio**. Al hacer cualquier actividad, el cuerpo transpira y en su proceso pierde sodio. Por lo que es vital **ingerir sodio por hora**, ya que si solo se tomara agua se llegaría a una deshidratación de igual manera.  
@@ -105,7 +104,7 @@ Otra parte clave a la par del agua, es el **sodio**. Al hacer cualquier activida
 {{< notice "info" >}}  **¡Se recomienda entre 300 y 600 mg de sodio por hora!**   {{< /notice >}}
 
 ## Ropa acorde al clima y repuesto  
-{{< image src="images/posts/post3/clothes.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/clothes.png" caption="" alt="Ropa Trail" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Ropa Trail" webp="false" >}}  
 _- Ropa Trail Running -_  
 
 **Investigar el clima previo a la actividad es de suma importancia** para estar bien preparados. Así lograremos equiparnos con ropa adecuada al clima. Sin embargo, como un extra a pesar de cualquier tipo de clima, siempre es recomendable llevar:  
@@ -119,7 +118,7 @@ _- Ropa Trail Running -_
 
 
 ## Lentes de sol y protector  
-{{< image src="images/posts/post3/lentes.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/lentes.jpg" caption="" alt="Lentes Sol" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Lentes Sol" webp="false" >}}  
 _- Lentes de sol -_  
 
 Aunque depende mucho de la persona, en mi opinión, **es clave tener unos lentes de sol**. Además de hacer su trabajo contra los rayos UV, también protegen un poco del viento si es que hay bastante, así como de la tierra. Cabe aclarar que, aunque prefieran no usarlos cuando esté nublado o soleado, **es indispensable usarlos si vas a estar en sectores nevados**, ya que te perjudica la visión en el momento y genera problemas a futuro.  
@@ -128,7 +127,7 @@ Además, **no hay que olvidarse de aplicarnos protector solar previo a la activi
 
 
 ## Reloj  
-{{< image src="images/posts/post3/forerunner.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/forerunner.jpg" caption="" alt="Reloj" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Reloj" webp="false" >}}  
 _- Reloj Forerunner 255 -_  
 
 Aunque se puede explorar sin un reloj, **tener uno facilita los datos como tiempo, distancia, velocidad, etc.** Así como se puede cargar el track al reloj para tenerlo directamente a la mano. Pero, a su vez, logra capturar el recorrido con mayor precisión que un GPS de celular.  
@@ -137,7 +136,7 @@ Además, al llevar el reloj, estaremos dejando de usar procesos del celular, lo 
 
 
 ## Linterna de cabeza  
-{{< image src="images/posts/post3/headlamp.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/headlamp.jpg" caption="" alt="Linterna Cabeza" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Linterna Cabeza" webp="false" >}}  
 _- Linterna de cabeza -_  
 
 Si fueras a entrenar a oscuras, **a la linterna de cabeza no se le puede decir que no**. Sin embargo, llevar una aunque sea de día no es estar delirando. Uno nunca sabe qué puede pasar en los senderos, y si llegaras a tener un accidente, **tener una luz podría facilitar tu visión y que logren encontrarte en la oscuridad.**  
@@ -146,7 +145,7 @@ Si fueras a entrenar a oscuras, **a la linterna de cabeza no se le puede decir q
 
 ---
 ## Extras  
-{{< image src="images/posts/post3/extras.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}  
+{{< image src="images/posts/post3/extras.png" caption="" alt="Extras" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Extras" webp="false" >}}  
 _- Imagen de los extras -_  
 
 Dentro de la categoría **opcional pero recomendable están:**  
@@ -185,7 +184,7 @@ Uno nunca sabe cuándo puede tener ganas de ir al baño. Por lo que **tener un p
 
 
 ---
-**Algunos de los datos fueron extraídos de las siguientes páginas:**  
+**Fuentes:**  
 - [Mettlerunning - Trail Running First Aid Kit](https://www.mettlerunning.com/blog/trail-running-first-aid-kit/)  
 
 

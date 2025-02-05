@@ -9,11 +9,9 @@ tags: ["Definiciones", "Naturaleza", "Primeros pasos"]
 draft: false
 ---
 
-# ¿Qué es el Trail Running?
-
 Con el paso del tiempo, el _Trail Running_ crece en _popularidad_ y su comunidad se expande más con aficionados por el running y la naturaleza. Sin embargo, _¿Qué es el Trail Running?_ ¿Cúal es esa diferencia que lo separa de su contraparte clásica?
 
-{{< image src="images/posts/post2/P2toncek.jpeg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/posts/post2/P2toncek.jpeg" caption="" alt="Laguna Toncek" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Laguna Toncek" webp="false" >}}
 _Laguna Toncek_
 
 ## La definición del Trail Running
@@ -25,7 +23,7 @@ Si investigamos un poco, vamos a encontrar que este deporte se define como la pr
 ### Definición personal
 Por mi parte, me gusta referirme al Trail al igual que la definición de libro, como la práctica del running por cualquier parte distinta de la ruta convencional pavimentada. Sin embargo, me gustaría agregar, que aunque se hable de running, no quiere decir que cualquier persona que practique este deporte _no haya caminado o no camine en ciertas partes de la aventura_. A diferencia del road running (running en calle) en el Trail **se puede caminar**; cabe aclarar que con caminar nos referimos a un _trekking_ con un paso más rápido. Además, el Trail al ser como **un medio que te lleva a la naturaleza** y a sus lugares más alejados de la intervención humana, es más que obvio que como runners nos vamos a tomar unos minutos para apreciar el paisaje y su belleza.
 
-{{< image src="images/posts/post2/P2noche.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/posts/post2/P2noche.jpg" caption="" alt="Paisaje Noche" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Paisaje Noche" webp="false" >}}
 _Foto tomada luego de haber parado para apreciar las vistas_
 
 ## Primeros pasos
@@ -37,7 +35,7 @@ Sin embargo, **si tienes ganas de embarcarte en el Trail para hacer actividades 
 ## Conclusiones
 Entonces, una vez explorado las definiciones del Trail Running, podemos entender en cierta parte su crecimiento en popularidad. Es un deporte el cual te acerca a la naturaleza, permitiéndote escapar del estrés de las ciudades y del ruido inevitable que convive en ella. Logrando conectar para bajar a tierra, con el agregado de estar realizando una actividad excelente para tu salud, así como la posibilidad de conocer lugares y paisajes en primera persona y no por medios digitales.
 
-{{< image src="images/posts/post2/P2villa.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/posts/post2/P2villa.jpg" caption="" alt="Beldevere" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Beldevere" webp="false" >}}
 _Foto de lugar conocido gracias al Trail Running_
 
 ---
