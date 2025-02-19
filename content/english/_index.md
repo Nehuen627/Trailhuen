@@ -39,7 +39,7 @@ features:
     content: "Una vez cada tanto, participar en carreras te lográ conectar con la inmensa comunidad del trail, y te ayuda a ver el progreso logrado. Estos abarcan mis próximos deseos:"
     bulletpoints:
       - "Travesía de los cerros - 42km"
-      
+      - "Torrencial Chile UTMB - 50k"
   - title: "¿Te gustaría apoyar este proyecto?"  
     image: "/images/favicon.png"  
     content: "Trailhuen nació como un espacio de pasión y comunidad, no como un negocio. Por eso, he decidido mantenerlo libre de anuncios intrusivos que puedan afectar tu experiencia. Si valoras mi contenido y quieres ayudarme a mantener el proyecto en marcha, tu aporte será recibido con gratitud."  
