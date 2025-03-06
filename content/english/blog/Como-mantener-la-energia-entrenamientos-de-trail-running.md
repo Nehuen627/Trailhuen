@@ -4,7 +4,7 @@ meta_title: "Energía en Trail Running: Consejos y Nutrición"
 description: "Descubre cómo mantener la energía en tus entrenamientos de Trail Running con la nutrición adecuada. Aprende cuántos carbohidratos necesitas y las mejores fuentes para optimizar tu rendimiento."  
 date: 2025-02-05T05:00:00Z  
 image: "/images/posts/post4/Carbos1.png"
-categories: ["Trailrunning", "Nutrición"]  
+categories: ["Trail Running", "Nutrición"]  
 tags: ["nutrición", "trail running", "aventura", "outdoor"]  
 draft: false  
 ---

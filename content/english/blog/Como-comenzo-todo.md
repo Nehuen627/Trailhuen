@@ -4,7 +4,7 @@ meta_title: "El Inicio del Trail en Mi Vida | Blog Trailhuen"
 description: "Descubre cómo comenzó mi viaje en el trail running, desde los primeros pasos hasta alcanzar grandes desafíos como la K42. Una historia de pasión y perseverancia."
 date: 2025-01-09T05:00:00Z
 image: "/images/posts/post1/P1.jpg"
-categories: ["Trailrunning", "Personal"]
+categories: ["Trail Running", "Personal"]
 tags: ["Inicio", "Sueño"]
 draft: false
 ---

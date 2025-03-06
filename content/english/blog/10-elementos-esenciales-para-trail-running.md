@@ -4,7 +4,7 @@ meta_title: "10 elementos clave para disfrutar del Trail Running | Trailhuen"
 description: "Descubre los 10 elementos esenciales para el Trail Running y disfruta de cada aventura con seguridad y comodidad. Equipo, hidratación, alimentación y más."  
 date: 2025-01-20T05:00:00Z  
 image: "/images/posts/post3/elementos.jpg"  
-categories: ["Trailrunning", "Información"]  
+categories: ["Trail Running", "Información"]  
 tags: ["equipamiento", "trail running", "aventura", "outdoor"]  
 draft: false  
 ---  

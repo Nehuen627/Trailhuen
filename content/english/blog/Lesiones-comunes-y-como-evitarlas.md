@@ -4,7 +4,7 @@ meta_title: "Guía completa de prevención de lesiones para corredores de monta�
 description: "Descubre las lesiones más frecuentes en Trail Running y Running, sus síntomas, causas, tratamientos y consejos prácticos para prevenirlas y seguir disfrutando de la montaña."
 date: 2025-03-06T05:00:00Z
 image: "/images/posts/post6/lesion.svg"
-categories: ["Trail Running", "Salud"]
+categories: ["Trail Running", "Running", "Salud"]
 tags: ["Lesiones", "Prevención", "Entrenamiento", "Técnica de carrera"]
 draft: false
 ---

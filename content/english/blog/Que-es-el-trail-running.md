@@ -4,7 +4,7 @@ meta_title: "¿Qué es el Trail Running? Definición y Primeros Pasos"
 description: "Descubre qué es el Trail Running, sus diferencias con el running convencional, y cómo dar tus primeros pasos en este deporte que conecta con la naturaleza."
 date: 2025-01-13T05:00:00Z
 image: "/images/posts/post2/P2trail.jpg"
-categories: ["Trailrunning"]
+categories: ["Trail Running"]
 tags: ["Definiciones", "Naturaleza", "Primeros pasos"]
 draft: false
 ---
