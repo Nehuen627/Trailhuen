@@ -4,13 +4,13 @@ meta_title: "Estrategia de carrera en Trail Running: Planificá tu éxito"
 description: "Claves para llegar al día del evento preparado: desde la alimentación y equipamiento, hasta el ritmo y la organización previa. Corré con cabeza y sacá tu mejor versión."
 date: 2025-04-14T05:00:00Z
 image: "/images/posts/post7/checklist.jpg"
-categories: ["Trail Running"]
+categories: ["Trail Running", "Running"]
 tags: ["Planificación", "Nutrición", "Carreras", "Estrategia"]
 draft: false
 ---
 
 
-Sea tu primera experiencia o seas ya un veterano en el ámbito competitivo de este deporte, es clave saber que para cerrar bien un plan de entrenamiento, hay que lograr **demostrar el potencial construido en el día del evento**. Es por eso que vamos a explorar la importancia de preparar una estrategia de carrera. 
+Sea tu primera experiencia o seas ya un veterano en el ámbito competitivo de este deporte, es clave saber que para cerrar bien un plan de entrenamiento, hay que lograr __demostrar el potencial construido en el día del evento__. Es por eso que vamos a explorar la importancia de preparar una estrategia de carrera. 
 
 
 ## Planificación:
