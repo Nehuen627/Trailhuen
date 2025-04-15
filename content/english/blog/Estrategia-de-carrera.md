@@ -10,7 +10,7 @@ draft: false
 ---
 
 
-Sea tu primera experiencia o seas ya un veterano en el ámbito competitivo de este deporte, es clave saber que para cerrar bien un plan de entrenamiento, hay que lograr __demostrar el potencial construido en el día del evento__. Es por eso que vamos a explorar la importancia de preparar una estrategia de carrera. 
+Sea tu primera experiencia o seas ya un veterano en el ámbito competitivo de este deporte, es clave saber que para cerrar bien un plan de entrenamiento, hay que lograr _demostrar el potencial construido en el día del evento_. Es por eso que vamos a explorar la importancia de preparar una estrategia de carrera. 
 
 
 ## Planificación:
@@ -21,7 +21,7 @@ No solo explorar con tiempo previo todo lo que vamos a hacer y llevar nos va a p
 
 La primera parte importante a planificar, es cómo vamos a actuar los días previos al evento. 
 Lo más común es que pienses que tengo que bajar la carga y relajar el cuerpo para el gran día. Y claramente esto es vital, pero además hay que tener en cuenta que también **debemos modificar las comidas**. 
-En una semana común, seguramente tengas una dieta bastante variada con un poco mayor de carga de carbohidratos. Sin embargo, los días previos a una carrera, hay que empezar a **aumentar esa carga**, y que __predominen los carbohidratos en todas las comidas__. 
+En una semana común, seguramente tengas una dieta bastante variada con un poco mayor de carga de carbohidratos. Sin embargo, los días previos a una carrera, hay que empezar a **aumentar esa carga**, y que _predominen los carbohidratos en todas las comidas_. 
 De esta forma, vamos a poder llenar una reserva para tener un plus. Además, la cena o el almuerzo previo al evento, **tiene que haber sido testeada en los entrenamientos**. Con esto nos referimos a no explorar comidas nuevas, que sepas que pueden causar malestar estomacal, etc. 
 
 ##### Claves: 
@@ -52,7 +52,7 @@ Pero como todo esto puede cambiar en pocas horas, también hay que tener prepara
 ### Estimación de tiempos y ritmo: 
 La anteúltima parte importante, es tener un **estimado de tiempo** para completar el evento. Aunque pueda pasar cualquier contratiempo o simplemente sea tu primera experiencia. Es posible basarse en los tiempos de los entrenamientos para tener un estimativo. 
 Pero a qué va esto? ¿De qué me serviría esta información? 
-Si no tienes una idea estimativa de cuánto vas a tardar, por ejemplo, __¿cómo sabes cuanta cantidad de geles llevar para suplir lo necesario?__ Aunque siempre es mejor calcular de más, no podemos bajo ningún término quedarnos cortos. Por eso, tener una idea en base a lo necesario, nos ahorra llevar exceso de peso, o exceso de cosas en general, pero llevando el mínimo necesario. 
+Si no tienes una idea estimativa de cuánto vas a tardar, por ejemplo, _¿cómo sabes cuanta cantidad de geles llevar para suplir lo necesario?_ Aunque siempre es mejor calcular de más, no podemos bajo ningún término quedarnos cortos. Por eso, tener una idea en base a lo necesario, nos ahorra llevar exceso de peso, o exceso de cosas en general, pero llevando el mínimo necesario. 
 Por otro lado, si fueras un profesional, tener un tiempo estimado, también se vería reflejado en **los ritmos que vas a llevar**. Por ejemplo si quisieras hacer un sub 20 minutos en los 5km llanos, es importante saber que tenes que mantener ritmos de menos de 4m/km. 
 
 ##### Claves: 
@@ -70,4 +70,4 @@ Por último, tienes que planificar bien qué vas a hacer ese mismo día, fuera d
 
 
 ## Conclusión: 
-Entonces, tener todo planeado sirve para tener una organización y no olvidarnos de nada importante. Y a su vez, **tener la mente fresca y libre de estrés innecesario**. Todo para poder dar nuestro máximo potencial y poder __disfrutar al completo lo que nos depara__.
+Entonces, tener todo planeado sirve para tener una organización y no olvidarnos de nada importante. Y a su vez, **tener la mente fresca y libre de estrés innecesario**. Todo para poder dar nuestro máximo potencial y poder _disfrutar al completo lo que nos depara_.
