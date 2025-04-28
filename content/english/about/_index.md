@@ -34,9 +34,8 @@ Luego de haber logrado ese sueño, sigo planeándome nuevos desafíos y metas, p
 ### Listado de logros obtenidos:
 
 {{< accordion "2025" >}}
-
+- Travesía de los Cerros - 40km 3000+ - 1ro cat - 26 gral
 {{< /accordion >}}
-
 
 {{< accordion "2024" >}}
 - Desafío Wayra - 35km 1700+ - 3ro cat

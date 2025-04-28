@@ -38,7 +38,6 @@ features:
     image: "/images/H3.jpg" # Imagen sugerida: corredor en carreras
     content: "Una vez cada tanto, participar en carreras te lográ conectar con la inmensa comunidad del trail, y te ayuda a ver el progreso logrado. Estos abarcan mis próximos deseos:"
     bulletpoints:
-      - "Travesía de los cerros - 42km"
       - "Torrencial Chile UTMB - 50k"
   - title: "¿Te gustaría apoyar este proyecto?"  
     image: "/images/favicon.png"  
